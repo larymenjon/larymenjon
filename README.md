@@ -44,7 +44,7 @@ Aplicativo interativo de clima com API em tempo real e design moderno inspirado 
 <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>API OpenWeather</code>
 </p>
 <p align="center">
-  <a href="https://github.com/larymenjon/WeatherVista" target="_blank">
+  <a href="https://github.com/larymenjon/WEATHER-VISTA-2.0" target="_blank">
     🔗 Ver Repositório
   </a>
 </p>
@@ -59,7 +59,7 @@ Plataforma completa de agendamento para petshops, com dashboards separados e int
 <code>TypeScript</code> • <code>React</code> • <code>Node.js</code> • <code>Firebase</code>
 </p>
 <p align="center">
-  <a href="https://github.com/larymenjon/PetCall" target="_blank">
+  <a href="https://petcall.base44.app/" target="_blank">
     🔗 Ver Repositório
   </a>
 </p>
