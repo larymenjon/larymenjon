@@ -6,27 +6,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,100:ffc371&height=180&section=header&text=Laryssa%20Aguiar%20Menjon&fontSize=38&fontColor=ffffff&animation=twinkling"/>
 
-<h3>💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
-<p>🌱 Apaixonada por tecnologia, automação e soluções criativas.<br>
-🚀 Em constante evolução no mundo do desenvolvimento e inovação.<br>
-💡 Acredito que código é a ponte entre ideias e impacto real.</p>
+<h3>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
+<p>Apaixonada por tecnologia, automação e soluções criativas.<br>
+Constante evolução no mundo do desenvolvimento e inovação.<br>
+ Acredito que código é a ponte entre ideias e impacto real.</p>
 
 </div>
 
-### 💫 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Explorando **Front-End, Back-End e Automação**
-- 🌍 Entusiasta de **tecnologia, design e inteligência artificial**
-- 📚 Aprendendo algo novo todos os dias
-- 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/)
+Sobre Mim
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
+-  Explorando **Front-End, Back-End e Automação**
+-  Entusiasta de **tecnologia, design e inteligência artificial**
+-  Aprendendo algo novo todos os dias
+-  Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/)
 
-### ⚙️ Tech Stack
+###  Tech Stack
 <div align="center">
-Front-End	Back-End	Ferramentas & Automação
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  
+| Front-End | Back-End |
+|:----------:|:---------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> |
+
 </div>
 
-### 🚀 Projetos Recentes
+###  Projetos Recentes
 
 <div align="center">
 
@@ -61,18 +64,7 @@ Plataforma completa de agendamento para petshops, com dashboards separados e int
   </a>
 </p>
 </td>
-
-<td width="33%">
-<h3 align="center">🍓 Receitas da Frida</h3>
-<p align="center">
-Blog automatizado com IA e SEO otimizado, focado em culinária prática e receitas para o dia a dia.
 </p>
-<p align="center">
-<code>Python</code> • <code>WordPress</code> • <code>n8n</code> • <code>ChatGPT API</code>
-</p>
-<p align="center">
-  <a href="https://github.com/larymenjon/Receitas-da-Frida" target="_blank">
-    🔗 Ver Repositório
   </a>
 </p>
 </td>
@@ -81,19 +73,21 @@ Blog automatizado com IA e SEO otimizado, focado em culinária prática e receit
 
 </div>
 
-### 📊 GitHub Overview
+
+###  GitHub Overview
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&theme=omni&hide_border=true" />
 </div>
 
 
-### 🏆 Destaques e Conquistas
+###  Destaques e Conquistas
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=larymenjon&theme=discord&no-frame=true&column=6&margin-w=15&margin-h=15" />
 </div>
 
-### 📬 Contato
+
+###  Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -103,11 +97,14 @@ Blog automatizado com IA e SEO otimizado, focado em culinária prática e receit
   </a>
 </div>
 
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc371,100:ff5f6d&height=120&section=footer"/>
   
 ✨ *"Transformando aprendizado em código e código em oportunidades."* ✨  
 </div>
+
+
 
 
 
