@@ -12,7 +12,7 @@
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/typescript-original.svg">
+   <img align="center" alt="TS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fangularjs-typescript-javascript-vuejs-png%2FHzDvp6nd&psig=AOvVaw14AHhoCBe9fDb8Tg5lu5_v&ust=1759972171393000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKj16bS1k5ADFQAAAAAdAAAAABAL">
 
    
 
