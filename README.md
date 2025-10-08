@@ -1,57 +1,116 @@
-<h1 align="center">Hello! 👋 I'm Laryssa Menjon</h1>
-<h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<!-- ========================= -->
+<!--      LARYSSA MENJON       -->
+<!-- ========================= -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,100:ffc371&height=180&section=header&text=Laryssa%20Aguiar%20Menjon&fontSize=38&fontColor=ffffff&animation=twinkling"/>
+
+<h3>💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
+<p>🌱 Apaixonada por tecnologia, automação e soluções criativas.<br>
+🚀 Em constante evolução no mundo do desenvolvimento e inovação.<br>
+💡 Acredito que código é a ponte entre ideias e impacto real.</p>
+
+</div>
+
+### 💫 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Explorando **Front-End, Back-End e Automação**
+- 🌍 Entusiasta de **tecnologia, design e inteligência artificial**
+- 📚 Aprendendo algo novo todos os dias
+- 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/)
+
+### ⚙️ Tech Stack
+<div align="center">
+  
+| Front-End | Back-End | Languages |
+|:----------:|:---------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> |
+
+</div>
+
+### 🚀 Projetos Recentes
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">🌦️ WeatherVista</h3>
 <p align="center">
-  🌱 Apaixonada por tecnologia, automação e soluções criativas.<br>
-  🚀 Sempre em busca de aprender mais sobre desenvolvimento e inovação.<br>
-  💡 Compartilhando conhecimento e evolução constante.
+Aplicativo interativo de clima com API em tempo real e design moderno inspirado em Windy e Windguru.
 </p>
-
----
-
-### 💫 About Me
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Explorando o mundo do **Front-End e Back-End**
-- 🌍 Amante de **tecnologia, design e IA**
-- 📫 Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/)
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+<code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>API OpenWeather</code>
 </p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larymenjon&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📬 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/larymenjon/WeatherVista" target="_blank">
+    🔗 Ver Repositório
   </a>
 </p>
+</td>
 
----
+<td width="33%">
+<h3 align="center">🐾 PetCall</h3>
+<p align="center">
+Plataforma completa de agendamento para petshops, com dashboards separados e integração de pagamentos.
+</p>
+<p align="center">
+<code>TypeScript</code> • <code>React</code> • <code>Node.js</code> • <code>Firebase</code>
+</p>
+<p align="center">
+  <a href="https://github.com/larymenjon/PetCall" target="_blank">
+    🔗 Ver Repositório
+  </a>
+</p>
+</td>
 
-<p align="center">✨ "Transformando aprendizado em código e código em oportunidades!" ✨</p>
+<td width="33%">
+<h3 align="center">🍓 Receitas da Frida</h3>
+<p align="center">
+Blog automatizado com IA e SEO otimizado, focado em culinária prática e receitas para o dia a dia.
+</p>
+<p align="center">
+<code>Python</code> • <code>WordPress</code> • <code>n8n</code> • <code>ChatGPT API</code>
+</p>
+<p align="center">
+  <a href="https://github.com/larymenjon/Receitas-da-Frida" target="_blank">
+    🔗 Ver Repositório
+  </a>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 📊 GitHub Overview
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&theme=omni&hide_border=true" />
+</div>
+
+
+### 🏆 Destaques e Conquistas
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=larymenjon&theme=discord&no-frame=true&column=6&margin-w=15&margin-h=15" />
+</div>
+
+### 📬 Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:laryssa.menjon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc371,100:ff5f6d&height=120&section=footer"/>
+  
+✨ *"Transformando aprendizado em código e código em oportunidades."* ✨  
+</div>
+
 
 
