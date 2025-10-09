@@ -1,120 +1,65 @@
-<!-- ========================= -->
-<!--      LARYSSA MENJON       -->
-<!-- ========================= -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,100:ffc371&height=180&section=header&text=Laryssa%20Aguiar%20Menjon&fontSize=38&fontColor=ffffff&animation=twinkling"/>
-
-<h3>💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
-<p>🚀 Apaixonada por tecnologia, automação e soluções criativas.<br>
-🌱 Em constante evolução no mundo do desenvolvimento e inovação.<br>
-💡 Acredito que código é a ponte entre ideias e impacto real.</p>
-
+  <a href="https://github.com/larymenjon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
 </div>
 
----
-
-### 👩‍💻 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Explorando **Front-End, Back-End e Automação**
-- 🤖 Entusiasta de **tecnologia, design e inteligência artificial**
-- 🌍 Aprendendo algo novo todos os dias
-- 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/)
-
----
-
-### 🛠️ Tech Stack
-<div align="center">
-  
-| Front-End | Back-End |
-|:----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> |
-
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:laryssa.menjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
----
+### Olá, eu sou a Laryssa Aguiar Menjon 👋
 
-### 🚀 Projetos Recentes
+<p align="left">
+  Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por transformar ideias em realidade através do código. Tenho focado meus estudos no desenvolvimento Front-End, explorando tecnologias como Figma, Html, CSS, JS. e Python para criar soluções criativas e eficientes.
+</p>
 
-<div align="center">
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Explorando o universo **front-end**
+-  Buscando minha primeira oportunidade para atuar na área de tecnologia.
+-  Aberta a colaborações em projetos inovadores.
 
-<table>
-<tr>
-<td width="33%">
-<h3 align="center">🌦️ WeatherVista</h3>
-<p align="center">
-Aplicativo interativo de clima com API em tempo real e design moderno inspirado em Windy e Windguru.
-</p>
-<p align="center">
-<code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>API OpenWeather</code>
-</p>
-<p align="center">
-  <a href="https://github.com/larymenjon/WEATHER-VISTA-2.0" target="_blank">🔗 Ver Repositório</a>
-</p>
-</td>
+### Tecnologias e Ferramentas
 
-<td width="33%">
-<h3 align="center">🐾 PetCall</h3>
 <p align="center">
-Plataforma completa de agendamento para petshops, com dashboards separados e integração de pagamentos.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vscode,figma&perline=11" />
+  </a>
 </p>
-<p align="center">
-<code>TypeScript</code> • <code>React</code> • <code>Node.js</code> • <code>Firebase</code>
-</p>
-<p align="center">
-  <a href="https://petcall.base44.app/" target="_blank">🔗 Ver Repositório</a>
-</p>
-</td>
 
-<tr>
-<td width="33%">
-<h3 align="center">🧮 PyCalPro</h3>
-<p align="center">
-Calculadora profissional desenvolvida em Python, com interface intuitiva e funcionalidades avançadas.
-</p>
-<p align="center">
-<code>Python</code> • <code>Tkinter</code> • <code>UX Design</code>
-</p>
-<p align="center">
-  <a href="https://github.com/larymenjon/PyCal-Pro" target="_blank">🔗 Ver Repositório</a>
-</p>
-</td>
-</tr>
+### Meus Principais Projetos
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/larymenjon/PyCal-Pro">
+        <strong>🧮 PyCal-Pro</strong>
+      </a>
+      <br />
+      <p>Calculadora profissional com interface gráfica desenvolvida em Python e Tkinter, focada em uma experiência de usuário intuitiva.</p>
+      <p><code>Python</code> <code>Tkinter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/larymenjon/WEATHER-VISTA-2.0">
+        <strong>🌦️ WeatherVista 2.0</strong>
+      </a>
+      <br />
+      <p>Aplicação interativa de clima que consome a API OpenWeather para exibir dados meteorológicos em tempo real de forma clara e moderna.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <a href="https://petcall.base44.app/">
+        <strong>🐾 PetCall</strong>
+      </a>
+      <br />
+      <p>Plataforma completa de agendamento para petshops, com dashboards e integração de pagamentos (projeto em equipe).</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Firebase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
-
-</div>
-
----
-
-### 📊 GitHub Overview
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&theme=omni&hide_border=true" />
-</div>
-
----
-
-### 🏅 Destaques e Conquistas
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=larymenjon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-</div>
-
----
-
-### 📬 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:laryssa.menjon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc371,100:ff5f6d&height=120&section=footer"/>
-</div>
-
-
-
