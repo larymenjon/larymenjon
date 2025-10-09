@@ -77,7 +77,7 @@ Calculadora profissional desenvolvida em Python, com interface intuitiva e funci
 <code>Python</code> • <code>Tkinter</code> • <code>UX Design</code>
 </p>
 <p align="center">
-  <a href="https://github.com/larymenjon/PyCalPro" target="_blank">🔗 Ver Repositório</a>
+  <a href="https://github.com/larymenjon/PyCal-Pro" target="_blank">🔗 Ver Repositório</a>
 </p>
 </td>
 </tr>
