@@ -1,65 +1,67 @@
+<h1 align="center">Olá 👋 Eu sou a Lary!</h1>
+
+###
+
 <div align="center">
-  <a href="https://github.com/larymenjon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=dracula&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larymenjon&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <!-- Linguagens de programação -->
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <!-- Game Development & Design -->
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo" />
+  <img width="12" />
+  <!-- Ferramentas de Design e Produtividade -->
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=miro" height="60" alt="miro logo" />
+</div>
+
+###
+
+<div align="center">
+  <!-- Links -->
+  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://larymenjon.itch.io/">
+    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FF5C5C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch.io logo" />
+  </a>
+  <a href="https://larymenjon.github.io/Weather/">
+    <img src="https://img.shields.io/static/v1?message=Weather+Vista&logo=github&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="weather vista logo" />
+  </a>
+  <a href="https://github.com/larymenjon/PyCal-Pro">
+    <img src="https://img.shields.io/static/v1?message=PyCal+Pro&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pycal pro logo" />
+  </a>
+  <a href="https://larymenjon.github.io/PokeDevs/">
+    <img src="https://img.shields.io/static/v1?message=PokeDevs&logo=github&label=&color=FFCB05&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pokedevs logo" />
   </a>
 </div>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/laryssa-aguiar-menjon-33b590b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:laryssa.menjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+###
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=larymenjon&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=larymenjon&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy" />
 </div>
 
-### Olá, eu sou a Laryssa Aguiar Menjon 👋
+###
 
-<p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por transformar ideias em realidade através do código. Tenho focado meus estudos no desenvolvimento Front-End, explorando tecnologias como Figma, Html, CSS, JS. e Python para criar soluções criativas e eficientes.
-</p>
-
--  Cursando **Análise e Desenvolvimento de Sistemas**
--  Explorando o universo **front-end**
--  Buscando minha primeira oportunidade para atuar na área de tecnologia.
--  Aberta a colaborações em projetos inovadores.
-
-### Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vscode,figma&perline=11" />
-  </a>
-</p>
-
-### Meus Principais Projetos
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/larymenjon/PyCal-Pro">
-        <strong>🧮 PyCal-Pro</strong>
-      </a>
-      <br />
-      <p>Calculadora profissional com interface gráfica desenvolvida em Python e Tkinter, focada em uma experiência de usuário intuitiva.</p>
-      <p><code>Python</code> <code>Tkinter</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/larymenjon/WEATHER-VISTA-2.0">
-        <strong>🌦️ WeatherVista 2.0</strong>
-      </a>
-      <br />
-      <p>Aplicação interativa de clima que consome a API OpenWeather para exibir dados meteorológicos em tempo real de forma clara e moderna.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <a href="https://petcall.base44.app/">
-        <strong>🐾 PetCall</strong>
-      </a>
-      <br />
-      <p>Plataforma completa de agendamento para petshops, com dashboards e integração de pagamentos (projeto em equipe).</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Firebase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larymenjon/larymenjon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larymenjon/larymenjon/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/larymenjon/larymenjon/output/pacman-contribution-graph.svg">
+</picture>
