@@ -1,27 +1,6 @@
 <div align="center">
-  <img src="https://img.itch.zone/aW1nLzI0MzA1NDQ2LnBuZw==/original/CJclNI.png" alt="Header Lary Menjon">
+  <img src="https://i.ibb.co/GQfwnfmq/Capa-para-facebook-fotogr-fico-modular-claro-5.png" alt="Header Lary Menjon">
 </div>
-<div align="center">
-Sou uma desenvolvedora apaixonada por games, experiências interativas e criação de mundos.  
-Transformo ideias em projetos reais unindo criatividade, arte e programação.
-</div>
-
-## 🛠️ Habilidades Tecnológicas
-
-### 💻 Desenvolvimento Web  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-### 🧠 Linguagens  
-[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
-
-### 🎮 Game Development  
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-
-### 🎨 Design & Criação  
-[![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
-
-### 🔧 Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ## 🎨 Projetos Criativos
 
