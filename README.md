@@ -3,8 +3,6 @@
   <h3>Game Developer & Systems Analyst Student</h3>
   <p>I am an independent developer focused on creating games and meaningful digital experiences. My profile is my personal laboratory, where I build, learn, and share my journey.</p>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2k0YXJ1Y2kzb2JoOTc5OTRzdWhkNWcwNWZkNm44ODJsb2JtYWZuNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VG21l9ovbbqOF2YO33/200.gif" width="400">
-
   <br><br>
 
   <div align="center">
